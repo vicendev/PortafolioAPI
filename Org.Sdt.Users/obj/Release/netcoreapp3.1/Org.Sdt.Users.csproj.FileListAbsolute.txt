@@ -1,0 +1,12 @@
+C:\Users\vamoyano\source\repos\PortafolioAPI\Org.Sdt.Users\bin\Release\netcoreapp3.1\Org.Sdt.Users.deps.json
+C:\Users\vamoyano\source\repos\PortafolioAPI\Org.Sdt.Users\bin\Release\netcoreapp3.1\Org.Sdt.Users.dll
+C:\Users\vamoyano\source\repos\PortafolioAPI\Org.Sdt.Users\bin\Release\netcoreapp3.1\Org.Sdt.Users.pdb
+C:\Users\vamoyano\source\repos\PortafolioAPI\Org.Sdt.Users\bin\Release\netcoreapp3.1\Org.Sdt.Architecture.Core.dll
+C:\Users\vamoyano\source\repos\PortafolioAPI\Org.Sdt.Users\bin\Release\netcoreapp3.1\Org.Sdt.Architecture.Core.pdb
+C:\Users\vamoyano\source\repos\PortafolioAPI\Org.Sdt.Users\obj\Release\netcoreapp3.1\Org.Sdt.Users.csprojAssemblyReference.cache
+C:\Users\vamoyano\source\repos\PortafolioAPI\Org.Sdt.Users\obj\Release\netcoreapp3.1\Org.Sdt.Users.AssemblyInfoInputs.cache
+C:\Users\vamoyano\source\repos\PortafolioAPI\Org.Sdt.Users\obj\Release\netcoreapp3.1\Org.Sdt.Users.AssemblyInfo.cs
+C:\Users\vamoyano\source\repos\PortafolioAPI\Org.Sdt.Users\obj\Release\netcoreapp3.1\Org.Sdt.Users.csproj.CoreCompileInputs.cache
+C:\Users\vamoyano\source\repos\PortafolioAPI\Org.Sdt.Users\obj\Release\netcoreapp3.1\Org.Sdt.Users.csproj.CopyComplete
+C:\Users\vamoyano\source\repos\PortafolioAPI\Org.Sdt.Users\obj\Release\netcoreapp3.1\Org.Sdt.Users.dll
+C:\Users\vamoyano\source\repos\PortafolioAPI\Org.Sdt.Users\obj\Release\netcoreapp3.1\Org.Sdt.Users.pdb

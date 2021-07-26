@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAAGqvBExm/0eMyFuPBNzRtgAAAAACAAAAAAADZgAAwAAAABAAAAA7YMBzVPfmfTeLldjeerk+AAAAAASAAACgAAAAEAAAACGxTSMBycZfzutdFUEyXaEoAAAAIUzTUVLotGO2sWv/lxNW17zX9BTIZlC76LslkD4ndObaSVsmWCdwTBQAAADcYDLj/nVxXO+8EuTUYdE/toFjeg==</EncryptedPassword>
+    <_PublishTargetUrl>C:\Users\vamoyano\Documents\Desarrollo_Personal\netcore\publicados\portafolioApp</_PublishTargetUrl>
+    <History>True|2021-07-25T22:49:40.8991664Z;False|2021-07-25T18:45:32.9895581-04:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include=".dockerignore">
+      <publishTime>07/14/2021 11:06:29</publishTime>
+    </File>
+    <File Include="Dockerfile">
+      <publishTime>07/14/2021 11:06:29</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

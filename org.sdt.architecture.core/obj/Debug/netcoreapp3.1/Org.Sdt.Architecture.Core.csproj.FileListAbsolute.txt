@@ -1,0 +1,8 @@
+C:\Users\vamoyano\source\repos\PortafolioAPI\org.sdt.architecture.core\bin\Debug\netcoreapp3.1\Org.Sdt.Architecture.Core.deps.json
+C:\Users\vamoyano\source\repos\PortafolioAPI\org.sdt.architecture.core\bin\Debug\netcoreapp3.1\Org.Sdt.Architecture.Core.dll
+C:\Users\vamoyano\source\repos\PortafolioAPI\org.sdt.architecture.core\bin\Debug\netcoreapp3.1\Org.Sdt.Architecture.Core.pdb
+C:\Users\vamoyano\source\repos\PortafolioAPI\org.sdt.architecture.core\obj\Debug\netcoreapp3.1\Org.Sdt.Architecture.Core.AssemblyInfoInputs.cache
+C:\Users\vamoyano\source\repos\PortafolioAPI\org.sdt.architecture.core\obj\Debug\netcoreapp3.1\Org.Sdt.Architecture.Core.AssemblyInfo.cs
+C:\Users\vamoyano\source\repos\PortafolioAPI\org.sdt.architecture.core\obj\Debug\netcoreapp3.1\Org.Sdt.Architecture.Core.csproj.CoreCompileInputs.cache
+C:\Users\vamoyano\source\repos\PortafolioAPI\org.sdt.architecture.core\obj\Debug\netcoreapp3.1\Org.Sdt.Architecture.Core.dll
+C:\Users\vamoyano\source\repos\PortafolioAPI\org.sdt.architecture.core\obj\Debug\netcoreapp3.1\Org.Sdt.Architecture.Core.pdb
